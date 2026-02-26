@@ -1,0 +1,3816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReservationActivityExport>
+  <ReportHeader>
+    <SystemName>ORACLE HOSPITALITY  |  OPERA Property Management System</SystemName>
+    <PropertyName>Hotel Algarve Boutique</PropertyName>
+    <PropertyID>HAB001</PropertyID>
+    <ReportTitle>Reservation Activity Export</ReportTitle>
+    <RunDate>26/02/2025</RunDate>
+    <RunTime>06:15</RunTime>
+    <PeriodFrom>01/01/2025</PeriodFrom>
+    <PeriodTo>31/03/2025</PeriodTo>
+    <TotalRecords>200</TotalRecords>
+  </ReportHeader>
+  <Reservations>
+    <Reservation>
+      <ConfirmationNumber>HAB100850</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>11/02/2025</ArrivalDate>
+      <DepartureDate>13/02/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>174.8</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>11/01/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100851</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>13/03/2025</ArrivalDate>
+      <DepartureDate>19/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>190.77</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>18/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100852</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>06/03/2025</ArrivalDate>
+      <DepartureDate>13/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>146.32</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>15/01/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100853</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>29/01/2025</ArrivalDate>
+      <DepartureDate>31/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>139.41</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>19/01/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100854</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>13/01/2025</ArrivalDate>
+      <DepartureDate>15/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>122.74</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>20/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>NOS Communications</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100855</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>14/01/2025</ArrivalDate>
+      <DepartureDate>19/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>219.78</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>24/08/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100856</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>16/03/2025</ArrivalDate>
+      <DepartureDate>25/03/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>111.76</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>02/10/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100857</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>05/03/2025</ArrivalDate>
+      <DepartureDate>06/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>171.42</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>09/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100858</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>08/01/2025</ArrivalDate>
+      <DepartureDate>14/01/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>120.18</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>15/11/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent>Incentive Travel Ltd</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100859</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>15/03/2025</ArrivalDate>
+      <DepartureDate>20/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>136.35</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>07/03/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100860</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>15/01/2025</ArrivalDate>
+      <DepartureDate>23/01/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>205.59</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>15/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100861</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>04/01/2025</ArrivalDate>
+      <DepartureDate>05/01/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>185.72</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>05/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100862</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>04/02/2025</ArrivalDate>
+      <DepartureDate>11/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>115.77</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>10/12/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100863</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>17/03/2025</ArrivalDate>
+      <DepartureDate>21/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>157.7</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>14/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100864</ConfirmationNumber>
+      <ReservationStatus>NO SHOW</ReservationStatus>
+      <ArrivalDate>24/02/2025</ArrivalDate>
+      <DepartureDate>26/02/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>138.75</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>20/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>NOS Communications</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100865</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>25/01/2025</ArrivalDate>
+      <DepartureDate>04/02/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>100.77</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>08/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100866</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>17/02/2025</ArrivalDate>
+      <DepartureDate>24/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>164.71</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>21/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100867</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>18/02/2025</ArrivalDate>
+      <DepartureDate>24/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>159.91</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>08/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100868</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>31/03/2025</ArrivalDate>
+      <DepartureDate>05/04/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>112.38</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>06/01/2025</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100869</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>17/03/2025</ArrivalDate>
+      <DepartureDate>18/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>124.9</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>24/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100870</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>21/03/2025</ArrivalDate>
+      <DepartureDate>28/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>126.69</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>15/11/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100871</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>07/01/2025</ArrivalDate>
+      <DepartureDate>11/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>144.76</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>14/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100872</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/01/2025</ArrivalDate>
+      <DepartureDate>09/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>195.09</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>11/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100873</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>11/03/2025</ArrivalDate>
+      <DepartureDate>17/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>159.39</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>27/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100874</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>27/01/2025</ArrivalDate>
+      <DepartureDate>03/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>112.25</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>05/08/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Incentive Travel Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100875</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>19/02/2025</ArrivalDate>
+      <DepartureDate>25/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>147.18</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>26/11/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100876</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>24/03/2025</ArrivalDate>
+      <DepartureDate>30/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>159.15</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>09/02/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100877</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>02/02/2025</ArrivalDate>
+      <DepartureDate>05/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>147.65</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>04/01/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100878</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>05/03/2025</ArrivalDate>
+      <DepartureDate>07/03/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>3</Adults>
+      <Children>1</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>150.43</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>05/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100879</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>23/02/2025</ArrivalDate>
+      <DepartureDate>27/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>129.12</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>18/12/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100880</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>15/02/2025</ArrivalDate>
+      <DepartureDate>21/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>218.09</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>13/09/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100881</ConfirmationNumber>
+      <ReservationStatus>NO SHOW</ReservationStatus>
+      <ArrivalDate>04/01/2025</ArrivalDate>
+      <DepartureDate>09/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>148.25</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>25/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100882</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/02/2025</ArrivalDate>
+      <DepartureDate>19/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>122.68</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>06/11/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100883</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>22/01/2025</ArrivalDate>
+      <DepartureDate>23/01/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>159.3</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>19/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100884</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>23/01/2025</ArrivalDate>
+      <DepartureDate>26/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>167.34</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>29/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100885</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/01/2025</ArrivalDate>
+      <DepartureDate>09/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>129.22</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>22/12/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100886</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>21/02/2025</ArrivalDate>
+      <DepartureDate>26/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>152.02</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>11/02/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100887</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>22/01/2025</ArrivalDate>
+      <DepartureDate>24/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>2</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>121.87</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>11/11/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100888</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>16/02/2025</ArrivalDate>
+      <DepartureDate>22/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>1</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>155.32</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>20/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100889</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>17/03/2025</ArrivalDate>
+      <DepartureDate>25/03/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>134.98</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>04/03/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100890</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/02/2025</ArrivalDate>
+      <DepartureDate>16/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>2</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>137.14</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>27/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100891</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>24/02/2025</ArrivalDate>
+      <DepartureDate>25/02/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>154.46</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>17/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100892</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>09/02/2025</ArrivalDate>
+      <DepartureDate>12/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>173.4</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>09/01/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100893</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>21/02/2025</ArrivalDate>
+      <DepartureDate>25/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>129.7</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>30/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100894</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>13/03/2025</ArrivalDate>
+      <DepartureDate>17/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>1</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>139.83</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>06/01/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100895</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>24/01/2025</ArrivalDate>
+      <DepartureDate>29/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>209.49</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>03/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100896</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>02/02/2025</ArrivalDate>
+      <DepartureDate>05/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>116.8</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>24/11/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100897</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>13/03/2025</ArrivalDate>
+      <DepartureDate>17/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>2</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>156.34</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>13/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100898</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>24/03/2025</ArrivalDate>
+      <DepartureDate>01/04/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>135.38</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100899</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>01/03/2025</ArrivalDate>
+      <DepartureDate>03/03/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>127.71</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>21/12/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100900</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>04/01/2025</ArrivalDate>
+      <DepartureDate>06/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>3</Adults>
+      <Children>2</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>130.47</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>25/11/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100901</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/01/2025</ArrivalDate>
+      <DepartureDate>17/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>127.13</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>02/08/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Incentive Travel Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100902</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/01/2025</ArrivalDate>
+      <DepartureDate>10/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>152.32</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>09/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100903</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>19/03/2025</ArrivalDate>
+      <DepartureDate>28/03/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>127.22</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>24/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100904</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>10/03/2025</ArrivalDate>
+      <DepartureDate>11/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>159.95</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>07/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>NOS Communications</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100905</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>03/01/2025</ArrivalDate>
+      <DepartureDate>11/01/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>166.55</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>05/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100906</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>09/02/2025</ArrivalDate>
+      <DepartureDate>10/02/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>127.05</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>03/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100907</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>28/01/2025</ArrivalDate>
+      <DepartureDate>05/02/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>129.56</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>18/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100908</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>30/03/2025</ArrivalDate>
+      <DepartureDate>05/04/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>176.82</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>22/02/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100909</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>30/03/2025</ArrivalDate>
+      <DepartureDate>02/04/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>2</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>186.38</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>02/03/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100910</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>09/02/2025</ArrivalDate>
+      <DepartureDate>15/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>112.07</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>21/08/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100911</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>17/02/2025</ArrivalDate>
+      <DepartureDate>26/02/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>128.0</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>02/11/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100912</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>02/01/2025</ArrivalDate>
+      <DepartureDate>04/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>161.13</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>12/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100913</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>17/03/2025</ArrivalDate>
+      <DepartureDate>20/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>126.12</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>31/10/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100914</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>14/01/2025</ArrivalDate>
+      <DepartureDate>15/01/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>128.92</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>20/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100915</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/02/2025</ArrivalDate>
+      <DepartureDate>14/02/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>162.55</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>03/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100916</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>24/01/2025</ArrivalDate>
+      <DepartureDate>29/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>121.53</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>29/07/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100917</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>17/03/2025</ArrivalDate>
+      <DepartureDate>22/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>184.56</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>23/02/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100918</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>25/01/2025</ArrivalDate>
+      <DepartureDate>04/02/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>114.39</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>27/10/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100919</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>04/03/2025</ArrivalDate>
+      <DepartureDate>10/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>111.86</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>05/01/2025</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100920</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>23/01/2025</ArrivalDate>
+      <DepartureDate>27/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>156.15</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>07/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100921</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>18/01/2025</ArrivalDate>
+      <DepartureDate>19/01/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>152.79</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>03/01/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100922</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>26/03/2025</ArrivalDate>
+      <DepartureDate>30/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>145.05</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>11/03/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100923</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>22/02/2025</ArrivalDate>
+      <DepartureDate>27/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>187.18</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>14/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100924</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>14/01/2025</ArrivalDate>
+      <DepartureDate>23/01/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>95.75</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>07/12/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100925</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>14/03/2025</ArrivalDate>
+      <DepartureDate>15/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>139.35</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>21/02/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100926</ConfirmationNumber>
+      <ReservationStatus>NO SHOW</ReservationStatus>
+      <ArrivalDate>19/02/2025</ArrivalDate>
+      <DepartureDate>22/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>123.54</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>07/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100927</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>30/03/2025</ArrivalDate>
+      <DepartureDate>02/04/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>2</Adults>
+      <Children>1</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>161.86</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>16/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100928</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>06/01/2025</ArrivalDate>
+      <DepartureDate>08/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>1</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>120.29</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>19/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100929</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>14/01/2025</ArrivalDate>
+      <DepartureDate>17/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>142.67</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>12/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100930</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>18/02/2025</ArrivalDate>
+      <DepartureDate>27/02/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>163.36</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>25/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100931</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>11/03/2025</ArrivalDate>
+      <DepartureDate>18/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>106.65</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>09/11/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100932</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>09/03/2025</ArrivalDate>
+      <DepartureDate>16/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>199.9</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>24/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100933</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/02/2025</ArrivalDate>
+      <DepartureDate>09/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>149.27</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>13/01/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100934</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>08/03/2025</ArrivalDate>
+      <DepartureDate>12/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>174.32</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>06/02/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100935</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>02/01/2025</ArrivalDate>
+      <DepartureDate>04/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>174.29</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>16/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100936</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>22/01/2025</ArrivalDate>
+      <DepartureDate>31/01/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>120.16</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>21/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100937</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>13/02/2025</ArrivalDate>
+      <DepartureDate>14/02/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>147.92</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>30/11/2024</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100938</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>15/02/2025</ArrivalDate>
+      <DepartureDate>19/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>131.72</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>11/09/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100939</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>06/03/2025</ArrivalDate>
+      <DepartureDate>10/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>152.67</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>06/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100940</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>11/03/2025</ArrivalDate>
+      <DepartureDate>16/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>166.36</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>16/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100941</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>08/03/2025</ArrivalDate>
+      <DepartureDate>14/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>102.33</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>16/11/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100942</ConfirmationNumber>
+      <ReservationStatus>NO SHOW</ReservationStatus>
+      <ArrivalDate>11/01/2025</ArrivalDate>
+      <DepartureDate>21/01/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>144.03</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>04/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100943</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>07/03/2025</ArrivalDate>
+      <DepartureDate>08/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>168.34</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>28/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100944</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>07/02/2025</ArrivalDate>
+      <DepartureDate>13/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>178.38</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>13/09/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100945</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>29/01/2025</ArrivalDate>
+      <DepartureDate>04/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>158.07</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>13/01/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100946</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>10/03/2025</ArrivalDate>
+      <DepartureDate>14/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>165.11</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>18/02/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100947</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>26/03/2025</ArrivalDate>
+      <DepartureDate>29/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>127.97</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>24/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100948</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/01/2025</ArrivalDate>
+      <DepartureDate>18/01/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>144.56</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>11/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100949</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>01/02/2025</ArrivalDate>
+      <DepartureDate>08/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>177.74</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>19/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100950</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>19/03/2025</ArrivalDate>
+      <DepartureDate>21/03/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>121.04</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>11/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100951</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>24/03/2025</ArrivalDate>
+      <DepartureDate>03/04/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>107.62</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>24/01/2025</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100952</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>25/01/2025</ArrivalDate>
+      <DepartureDate>01/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>175.65</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>08/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100953</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>04/01/2025</ArrivalDate>
+      <DepartureDate>11/01/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>132.81</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>03/12/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100954</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>02/03/2025</ArrivalDate>
+      <DepartureDate>07/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>147.78</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>10/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100955</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>03/02/2025</ArrivalDate>
+      <DepartureDate>07/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>2</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>167.76</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>06/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100956</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>23/03/2025</ArrivalDate>
+      <DepartureDate>30/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>113.47</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>01/02/2025</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100957</ConfirmationNumber>
+      <ReservationStatus>NO SHOW</ReservationStatus>
+      <ArrivalDate>24/01/2025</ArrivalDate>
+      <DepartureDate>28/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>132.74</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>07/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100958</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>13/01/2025</ArrivalDate>
+      <DepartureDate>14/01/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>145.98</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>02/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100959</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>06/02/2025</ArrivalDate>
+      <DepartureDate>09/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>146.27</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>28/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100960</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>10/01/2025</ArrivalDate>
+      <DepartureDate>12/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>151.28</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>27/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100961</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>10/02/2025</ArrivalDate>
+      <DepartureDate>14/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>158.0</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>19/01/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100962</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>17/02/2025</ArrivalDate>
+      <DepartureDate>26/02/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>142.41</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>16/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100963</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>02/01/2025</ArrivalDate>
+      <DepartureDate>05/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>131.8</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>10/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100964</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>16/01/2025</ArrivalDate>
+      <DepartureDate>17/01/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>137.37</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>12/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100965</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>13/03/2025</ArrivalDate>
+      <DepartureDate>18/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>110.72</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>09/01/2025</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100966</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>23/03/2025</ArrivalDate>
+      <DepartureDate>29/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>209.33</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>21/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100967</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/02/2025</ArrivalDate>
+      <DepartureDate>15/02/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>126.38</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>23/10/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100968</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>29/03/2025</ArrivalDate>
+      <DepartureDate>02/04/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>143.43</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>29/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100969</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>05/03/2025</ArrivalDate>
+      <DepartureDate>12/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>1</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>144.79</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>01/03/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100970</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>03/03/2025</ArrivalDate>
+      <DepartureDate>07/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>165.73</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>23/02/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100971</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>24/01/2025</ArrivalDate>
+      <DepartureDate>26/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>129.15</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>10/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>NOS Communications</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100972</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>06/03/2025</ArrivalDate>
+      <DepartureDate>16/03/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>109.06</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>30/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100973</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>11/03/2025</ArrivalDate>
+      <DepartureDate>16/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>167.62</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>06/03/2025</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100974</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>17/01/2025</ArrivalDate>
+      <DepartureDate>19/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>128.97</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>06/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100975</ConfirmationNumber>
+      <ReservationStatus>IN HOUSE</ReservationStatus>
+      <ArrivalDate>03/02/2025</ArrivalDate>
+      <DepartureDate>12/02/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>90.04</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>16/11/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100976</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>23/02/2025</ArrivalDate>
+      <DepartureDate>01/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>169.69</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>28/11/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100977</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>23/02/2025</ArrivalDate>
+      <DepartureDate>03/03/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>3</Adults>
+      <Children>2</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>120.75</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>02/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100978</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>25/03/2025</ArrivalDate>
+      <DepartureDate>30/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>115.69</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>15/12/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100979</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>29/01/2025</ArrivalDate>
+      <DepartureDate>02/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>173.84</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>08/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100980</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>02/02/2025</ArrivalDate>
+      <DepartureDate>05/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>2</Adults>
+      <Children>2</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>167.92</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>19/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>NOS Communications</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100981</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>23/01/2025</ArrivalDate>
+      <DepartureDate>27/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>164.91</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>02/01/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100982</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>16/02/2025</ArrivalDate>
+      <DepartureDate>17/02/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-BKG</RateCode>
+      <RateAmount>154.87</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>25/11/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Booking.com</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100983</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>14/02/2025</ArrivalDate>
+      <DepartureDate>21/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>207.3</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>30/11/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100984</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>08/01/2025</ArrivalDate>
+      <DepartureDate>12/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>129.82</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>30/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100985</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>03/02/2025</ArrivalDate>
+      <DepartureDate>09/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>1</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>118.4</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>26/08/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100986</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>07/02/2025</ArrivalDate>
+      <DepartureDate>14/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>115.01</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>15/10/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Incentive Travel Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100987</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>15/01/2025</ArrivalDate>
+      <DepartureDate>18/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>130.1</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>05/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100988</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>08/01/2025</ArrivalDate>
+      <DepartureDate>13/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>104.78</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>22/07/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100989</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>01/03/2025</ArrivalDate>
+      <DepartureDate>02/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>144.41</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>12/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>GB</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100990</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>03/01/2025</ArrivalDate>
+      <DepartureDate>08/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>158.28</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>20/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100991</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>21/01/2025</ArrivalDate>
+      <DepartureDate>25/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>128.74</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>08/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100992</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>14/01/2025</ArrivalDate>
+      <DepartureDate>18/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>169.76</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>13/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100993</ConfirmationNumber>
+      <ReservationStatus>IN HOUSE</ReservationStatus>
+      <ArrivalDate>26/02/2025</ArrivalDate>
+      <DepartureDate>01/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>141.68</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>02/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100994</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>08/02/2025</ArrivalDate>
+      <DepartureDate>14/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>2</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>188.1</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100995</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>03/02/2025</ArrivalDate>
+      <DepartureDate>07/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>2</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>156.07</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>06/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100996</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>19/01/2025</ArrivalDate>
+      <DepartureDate>24/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>153.5</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>08/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100997</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>07/03/2025</ArrivalDate>
+      <DepartureDate>13/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>172.31</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>26/01/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100998</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>28/03/2025</ArrivalDate>
+      <DepartureDate>02/04/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>161.01</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB100999</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>13/03/2025</ArrivalDate>
+      <DepartureDate>17/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>163.02</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>15/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101000</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>01/02/2025</ArrivalDate>
+      <DepartureDate>06/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>160.21</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>11/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101001</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>31/01/2025</ArrivalDate>
+      <DepartureDate>05/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>117.01</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>26/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101002</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>27/01/2025</ArrivalDate>
+      <DepartureDate>01/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>110.07</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>27/11/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Golf Holidays Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101003</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>04/02/2025</ArrivalDate>
+      <DepartureDate>10/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>186.23</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>03/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101004</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/02/2025</ArrivalDate>
+      <DepartureDate>12/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>175.77</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>16/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101005</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>15/03/2025</ArrivalDate>
+      <DepartureDate>18/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>179.04</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>12/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101006</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>07/03/2025</ArrivalDate>
+      <DepartureDate>17/03/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>1</Adults>
+      <Children>2</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>166.96</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>29/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101007</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>01/02/2025</ArrivalDate>
+      <DepartureDate>04/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>156.92</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>07/11/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101008</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>13/02/2025</ArrivalDate>
+      <DepartureDate>22/02/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>145.26</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>15/12/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101009</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>09/03/2025</ArrivalDate>
+      <DepartureDate>15/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>127.82</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>05/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101010</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/02/2025</ArrivalDate>
+      <DepartureDate>09/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>151.26</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>13/12/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101011</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>11/03/2025</ArrivalDate>
+      <DepartureDate>16/03/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>135.85</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>15/12/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101012</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>01/01/2025</ArrivalDate>
+      <DepartureDate>03/01/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>156.4</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>27/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101013</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/01/2025</ArrivalDate>
+      <DepartureDate>16/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>145.3</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>26/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101014</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>17/01/2025</ArrivalDate>
+      <DepartureDate>20/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>2</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>135.19</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>09/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101015</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>03/02/2025</ArrivalDate>
+      <DepartureDate>09/02/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>160.29</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>04/11/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101016</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>05/02/2025</ArrivalDate>
+      <DepartureDate>08/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>146.91</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>12/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101017</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>24/03/2025</ArrivalDate>
+      <DepartureDate>25/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>136.5</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>25/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101018</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>05/03/2025</ArrivalDate>
+      <DepartureDate>09/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>222.68</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>05/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101019</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>28/01/2025</ArrivalDate>
+      <DepartureDate>02/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>161.5</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>26/11/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101020</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>20/02/2025</ArrivalDate>
+      <DepartureDate>28/02/2025</DepartureDate>
+      <Nights>8</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>PKG</RateCode>
+      <RateAmount>150.2</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>04/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101021</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>31/01/2025</ArrivalDate>
+      <DepartureDate>05/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>1</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>103.5</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>09/08/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent>Incentive Travel Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101022</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>24/02/2025</ArrivalDate>
+      <DepartureDate>28/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>OTA-AIR</RateCode>
+      <RateAmount>143.61</RateAmount>
+      <MarketSegment>AIRBNB</MarketSegment>
+      <Source>Airbnb</Source>
+      <BookingDate>01/01/2025</BookingDate>
+      <Channel>Airbnb</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101023</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>25/01/2025</ArrivalDate>
+      <DepartureDate>31/01/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>175.85</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>22/01/2025</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101024</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>14/03/2025</ArrivalDate>
+      <DepartureDate>16/03/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>2</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>139.29</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>21/12/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101025</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>06/01/2025</ArrivalDate>
+      <DepartureDate>11/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>131.6</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>28/08/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>Incentive Travel Ltd</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101026</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>18/02/2025</ArrivalDate>
+      <DepartureDate>23/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>142.38</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>03/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101027</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>03/02/2025</ArrivalDate>
+      <DepartureDate>07/02/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>OTA-EXP</RateCode>
+      <RateAmount>175.13</RateAmount>
+      <MarketSegment>OTA</MarketSegment>
+      <Source>Expedia</Source>
+      <BookingDate>30/11/2024</BookingDate>
+      <Channel>Expedia</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent>Expedia Group</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101028</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>25/02/2025</ArrivalDate>
+      <DepartureDate>04/03/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>91.19</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>24/01/2025</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>BE</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101029</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>18/02/2025</ArrivalDate>
+      <DepartureDate>23/02/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>190.22</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101030</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>22/01/2025</ArrivalDate>
+      <DepartureDate>28/01/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>134.23</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/10/2024</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>SE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101031</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>25/01/2025</ArrivalDate>
+      <DepartureDate>28/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>169.28</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>07/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>PT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101032</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>02/03/2025</ArrivalDate>
+      <DepartureDate>04/03/2025</DepartureDate>
+      <Nights>2</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>151.2</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>22/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101033</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>17/02/2025</ArrivalDate>
+      <DepartureDate>26/02/2025</DepartureDate>
+      <Nights>9</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>96.59</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>26/10/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101034</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>06/01/2025</ArrivalDate>
+      <DepartureDate>11/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>115.05</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>23/07/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>IE</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101035</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>12/02/2025</ArrivalDate>
+      <DepartureDate>19/02/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>106.56</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>10/09/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>Suncorp Ltd</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101036</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>19/01/2025</ArrivalDate>
+      <DepartureDate>26/01/2025</DepartureDate>
+      <Nights>7</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>178.94</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>06/11/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>DK</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101037</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>29/03/2025</ArrivalDate>
+      <DepartureDate>30/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>176.09</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/03/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>ES</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101038</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>14/03/2025</ArrivalDate>
+      <DepartureDate>17/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>SUITE</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>119.67</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>05/02/2025</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101039</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>02/03/2025</ArrivalDate>
+      <DepartureDate>06/03/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>141.08</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>09/02/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101040</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>10/01/2025</ArrivalDate>
+      <DepartureDate>13/01/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>173.59</RateAmount>
+      <MarketSegment>DIRECT</MarketSegment>
+      <Source>Booking.com</Source>
+      <BookingDate>12/11/2024</BookingDate>
+      <Channel>Booking.com</Channel>
+      <Nationality>NO</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101041</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>19/03/2025</ArrivalDate>
+      <DepartureDate>22/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>152.85</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>13/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>US</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101042</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>13/03/2025</ArrivalDate>
+      <DepartureDate>23/03/2025</DepartureDate>
+      <Nights>10</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>FLEX</RateCode>
+      <RateAmount>136.12</RateAmount>
+      <MarketSegment>LEISURE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>25/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101043</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>30/03/2025</ArrivalDate>
+      <DepartureDate>31/03/2025</DepartureDate>
+      <Nights>1</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>169.54</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>23/03/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>FR</Nationality>
+      <CompanyTravelAgent>Accenture Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101044</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>15/01/2025</ArrivalDate>
+      <DepartureDate>21/01/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>WHSL</RateCode>
+      <RateAmount>101.48</RateAmount>
+      <MarketSegment>WHOLESALE</MarketSegment>
+      <Source>Tour Operator</Source>
+      <BookingDate>09/12/2024</BookingDate>
+      <Channel>Tour Operator</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent>Abreu Tours</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101045</ConfirmationNumber>
+      <ReservationStatus>CANCELLED</ReservationStatus>
+      <ArrivalDate>23/01/2025</ArrivalDate>
+      <DepartureDate>27/01/2025</DepartureDate>
+      <Nights>4</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>161.49</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>27/12/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>NL</Nationality>
+      <CompanyTravelAgent>EDP Energias de Portugal</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101046</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>21/03/2025</ArrivalDate>
+      <DepartureDate>27/03/2025</DepartureDate>
+      <Nights>6</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>MICE</RateCode>
+      <RateAmount>200.1</RateAmount>
+      <MarketSegment>MICE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>26/10/2024</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>IT</Nationality>
+      <CompanyTravelAgent>McKinsey &amp; Company</CompanyTravelAgent>
+      <VIPCode>VIP2</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101047</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>17/01/2025</ArrivalDate>
+      <DepartureDate>22/01/2025</DepartureDate>
+      <Nights>5</Nights>
+      <Adults>2</Adults>
+      <Children>0</Children>
+      <RoomType>STD</RoomType>
+      <RateCode>GRP</RateCode>
+      <RateAmount>123.52</RateAmount>
+      <MarketSegment>GROUP</MarketSegment>
+      <Source>Group Contract</Source>
+      <BookingDate>17/08/2024</BookingDate>
+      <Channel>Group Contract</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent>Sporting Events Portugal</CompanyTravelAgent>
+      <VIPCode>VIP1</VIPCode>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101048</ConfirmationNumber>
+      <ReservationStatus>CHECKED OUT</ReservationStatus>
+      <ArrivalDate>07/02/2025</ArrivalDate>
+      <DepartureDate>10/02/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>3</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>BAR</RateCode>
+      <RateAmount>191.55</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Hotel Website</Source>
+      <BookingDate>24/01/2025</BookingDate>
+      <Channel>Hotel Website</Channel>
+      <Nationality>DE</Nationality>
+      <CompanyTravelAgent/>
+      <VIPCode/>
+    </Reservation>
+    <Reservation>
+      <ConfirmationNumber>HAB101049</ConfirmationNumber>
+      <ReservationStatus>RESERVED</ReservationStatus>
+      <ArrivalDate>09/03/2025</ArrivalDate>
+      <DepartureDate>12/03/2025</DepartureDate>
+      <Nights>3</Nights>
+      <Adults>1</Adults>
+      <Children>0</Children>
+      <RoomType>DLX-SEA</RoomType>
+      <RateCode>CORP</RateCode>
+      <RateAmount>118.83</RateAmount>
+      <MarketSegment>CORPORATE</MarketSegment>
+      <Source>Corporate Direct</Source>
+      <BookingDate>14/02/2025</BookingDate>
+      <Channel>Corporate Direct</Channel>
+      <Nationality>CH</Nationality>
+      <CompanyTravelAgent>NOS Communications</CompanyTravelAgent>
+      <VIPCode/>
+    </Reservation>
+  </Reservations>
+</ReservationActivityExport>

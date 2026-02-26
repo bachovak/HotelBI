@@ -1,0 +1,7 @@
+History and forecast report in xml (standard report)
+
+Data for sales report comes from: Profile Production Statistics report from Opera (probably a standard report)
+For package forecast I need package forecast report for 8 days (standard opera report) - done
+
+DTIEX - data center company
+Otelier - company that does BI for Highgate
