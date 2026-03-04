@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DailyFlashExport>
+  <ReportHeader>
+    <SystemName>ORACLE HOSPITALITY  |  OPERA Property Management System</SystemName>
+    <PropertyName>Hotel Algarve Boutique</PropertyName>
+    <PropertyID>HAB001</PropertyID>
+    <ReportTitle>Manager's Report - Daily Flash</ReportTitle>
+    <BusinessDate>06/02/2026</BusinessDate>
+    <RunDate>06/02/2026</RunDate>
+    <RunTime>07:02</RunTime>
+    <Currency>EUR</Currency>
+  </ReportHeader>
+  <Statistics>
+    <Rooms>
+      <TotalRoomsInHotel>80</TotalRoomsInHotel>
+      <RoomsOutOfOrder>0</RoomsOutOfOrder>
+      <AvailableRooms>80</AvailableRooms>
+      <RoomsOccupied>71</RoomsOccupied>
+      <ComplimentaryRooms>0</ComplimentaryRooms>
+      <HouseUseRooms>0</HouseUseRooms>
+      <DayUseRooms>3</DayUseRooms>
+      <OccupancyPct>88.75</OccupancyPct>
+      <CleanRooms>25</CleanRooms>
+      <DirtyRooms>0</DirtyRooms>
+    </Rooms>
+    <Guests>
+      <InHouseAdults>73</InHouseAdults>
+      <InHouseChildren>6</InHouseChildren>
+      <TotalInHousePersons>79</TotalInHousePersons>
+    </Guests>
+    <Movement>
+      <ArrivalRooms>12</ArrivalRooms>
+      <ArrivalPersons>19</ArrivalPersons>
+      <DepartureRooms>14</DepartureRooms>
+      <DeparturePersons>16</DeparturePersons>
+      <NoShowRooms>2</NoShowRooms>
+      <CancelledReservations>0</CancelledReservations>
+      <WalkInRooms>0</WalkInRooms>
+      <ReservationsMadeToday>12</ReservationsMadeToday>
+    </Movement>
+    <Revenue>
+      <RoomRevenue>13041.28</RoomRevenue>
+      <FoodAndBeverageRevenue>3777.55</FoodAndBeverageRevenue>
+      <OtherRevenue>788.02</OtherRevenue>
+      <TotalRevenue>17606.85</TotalRevenue>
+    </Revenue>
+    <KPIs>
+      <ADR>183.68</ADR>
+      <RevPAR>163.02</RevPAR>
+      <TotalRevenuePAR>220.09</TotalRevenuePAR>
+      <AveragePersonRate>165.08</AveragePersonRate>
+    </KPIs>
+    <Tomorrow>
+      <ArrivalRoomsForTomorrow>7</ArrivalRoomsForTomorrow>
+      <DepartureRoomsForTomorrow>10</DepartureRoomsForTomorrow>
+      <OccupancyPctForTomorrow>70.22</OccupancyPctForTomorrow>
+    </Tomorrow>
+  </Statistics>
+</DailyFlashExport>
